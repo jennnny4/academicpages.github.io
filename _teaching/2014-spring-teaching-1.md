@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "big data"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -14,8 +14,4 @@ tik tok vs vine
 ======
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1982_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"tik tok","geo":"US","time":"today 12-m"},{"keyword":"vine","geo":"US","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=US&q=tik%20tok,vine&date=today 12-m,today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
 
-Heading 2
-======
 
-Heading 3
-======
