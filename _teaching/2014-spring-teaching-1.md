@@ -1,7 +1,7 @@
 ---
 title: "big data"
 collection: teaching
-type: "Undergraduate course"
+type: "google trends data"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
 date: 2014-01-01
